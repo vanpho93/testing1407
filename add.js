@@ -16,4 +16,4 @@ function addPromise(a, b) {
     });
 }
 
-module.exports = { add, addAsync };
+module.exports = { add, addAsync, addPromise };
