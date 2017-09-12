@@ -1,0 +1,16 @@
+sign in - sign up
+cac bang du lieu can co relation
+
+socket.io -> can 1 bang user -> luu tin nhan -> luu tru dang nhap
+
+giao dien
+------------------------------
+
+github
+heroku
+1 ban mo ta ngan
+
+khoaphamtraining@gmail.com
+
+chu de: DE TAI NODEJS 1407: 
+HO TEN, ngay sinh
